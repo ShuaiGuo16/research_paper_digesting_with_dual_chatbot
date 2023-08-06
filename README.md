@@ -7,4 +7,4 @@ In this project, we focused on solving the problem of efficiently digesting comp
 
 A separate blog that explains the implementation details is also available. The blog is located here:
 
-[Operator Learning via Physics-Informed DeepONet: Let's Implement It From Scratch]()
+[Developing An Autonomous Dual-Chatbot System For Research Paper Digesting]()
